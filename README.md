@@ -3,5 +3,5 @@ I create these two scripts to disable unwanted services, improve my PC, speed up
 
 # How it is work
 - Download and extract Zip file from https://github.com/HeiderJeffer/Windows-Disable-Unwanted-Services/archive/refs/heads/main.zip
-- Run Disabel Remote and Hyper Services.bat and Disable Services.bat files as administrator
+- Run (Disabel Remote and Hyper Services.bat) file and (Disable Services.bat) file as administrator
 - Restart your PC and all unwanted services will be disabled
